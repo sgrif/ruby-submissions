@@ -96,8 +96,8 @@ Production: http://farmers-market-pivot.herokuapp.com
 
 * **Completion**: 4: Team completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3: Simplecov numbers were there, but by 0.01% and there were several methods that were never tested. 0 unit tests for things other than validations
+* **Code Quality**: 3: Quality was good, several edge cases not handled, controllers fatter than I'd like.
 * **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Samson, David, Jason
