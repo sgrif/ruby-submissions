@@ -107,8 +107,8 @@ Production: http://ochotickets.herokuapp.com
 
 * **Completion**: 4: Team completed all the user stories and requirements set by the client in timely manner.
 * **Organization**: 4: Team used a project management tool and updated their progress in real-time.
-* **Test-Driven Development**:
-* **Code Quality**:
+* **Test-Driven Development**: 3: Test coverage in simplecov was 100%, but several methods were not ever tested directly
+* **Code Quality**: 4: Code was well factored, large amounts of logic moved out of both the controller and model.
 * **User Experience**: 4: Project exhibits a production-ready and polished UX.
 
 #### Rick, Erik, Drew
